@@ -1,20 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"GlinT Fraulein",
+    "id":"info.glintfraulein.vpm",
+    "url":"https://glintfraulein.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"GlinT Fraulein",
+        "url":"https://glintfraulein.info"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"GlinT Fraulein's vpm packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"",
+        "text":""
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "GlinTFraulein/PaLASOLU"
     ],
     "packages":[
         {
