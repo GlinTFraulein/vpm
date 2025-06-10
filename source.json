@@ -7,12 +7,12 @@
         "name":"GlinT Fraulein",
         "url":"https://glintfraulein.info"
     },
-    "description":"GlinT Fraulein's vpm packages",
+    "description":"GlinT Fraulein",
     "infoLink":{
         "url":"https://github.com/GlinTFraulein/vpm",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
         "GlinTFraulein/PaLASOLU"
     ],
