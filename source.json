@@ -16,7 +16,5 @@
     "githubRepos":[
         "GlinTFraulein/PaLASOLU"
     ],
-    "packages":[
-        "https://github.com/GlinTFraulein/PaLASOLU/releases/download/0.1.0/info.glintfraulein.palasolu.0.1.0.zip"
-    ]
+    "packages":[]
 }
