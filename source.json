@@ -1,5 +1,5 @@
 {
-    "name":"GlinT Fraulein VPM Packages",
+    "name":"GlinT Fraulein",
     "id":"info.glintfraulein.vpm",
     "url":"https://GlinTFraulein.github.io/vpm/index.json",
     "author":{
@@ -7,7 +7,7 @@
         "name":"GlinT Fraulein",
         "url":"https://glintfraulein.info"
     },
-    "description":"GlinT Fraulein",
+    "description":"GlinT Fraulein VPM Packages",
     "infoLink":{
         "url":"https://github.com/GlinTFraulein/vpm",
         "text":"View on GitHub"
