@@ -1,5 +1,5 @@
 {
-    "name":"GlinT Fraulein",
+    "name":"GlinT Fraulein VPM Packages",
     "id":"info.glintfraulein.vpm",
     "url":"https://GlinTFraulein.github.io/vpm/index.json",
     "author":{
@@ -9,20 +9,12 @@
     },
     "description":"GlinT Fraulein's vpm packages",
     "infoLink":{
-        "url":"",
-        "text":""
+        "url":"https://github.com/GlinTFraulein/vpm",
+        "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "GlinTFraulein/PaLASOLU"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
